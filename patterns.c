@@ -10,7 +10,7 @@ int main() {
             printf("*"); 
             printf(" "); // give space between stars 
         }
-        printf("\n"); // push the starts to new line 
+        printf("\n"); // push the stars to new line 
     }
     return 0;
 }
